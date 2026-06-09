@@ -1,5 +1,9 @@
 # 🧠 MindSpace — Presença XR
 
+Repositorio do site 
+https://github.com/Jones-Mendes/mind-space
+Esse é o repositorio do site que utilizamos para criar a plataforma 
+
 **Tecnologia como presença humana.**
 
 Uma plataforma imersiva de saúde mental que leva o consultório terapêutico para onde o paciente está,  via headset Meta Quest , com controle clínico em tempo real pelo profissional de saúde, de qualquer lugar do Brasil.
