@@ -3,6 +3,10 @@
 Repositorio do site 
 https://github.com/Jones-Mendes/mind-space
 Esse é o repositorio do site que utilizamos para criar a plataforma 
+Video Explicativo 
+https://youtu.be/r_YOL46bEa8
+Video Complementar
+https://youtu.be/N5xCtEGYdWw
 
 **Tecnologia como presença humana.**
 
